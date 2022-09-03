@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋 I'm Lokesh 🙂
 
-<!--
-**lokesh-go/lokesh-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Development Engineer who is working on [BookMyShow](https://in.bookmyshow.com) since more than 2.5 years to building and designing the scalable systems.
 
-Here are some ideas to get you started:
+I love to build the feature from scratch and also enthusiastic about to learn & explore tech in depth. Started to building utility package with example which is mostly used in developing microservices; here are few repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Golang examples](https://github.com/lokesh-go/golang-examples)
+ - [Golang mongodb library](https://github.com/lokesh-go/go-mongo-lib)
+ - [Vaccine availability notification service](https://github.com/lokesh-go/vaccine-bot-lamda-aws)
+
+Things I am exploring:
+
+ - 🔭 I’m currently exploring CS concept with golang 
+ - 🌱 I’m currently learning everything in depth 😛
+ - 💬 Talk about CS core concepts & system designs 🖥️
